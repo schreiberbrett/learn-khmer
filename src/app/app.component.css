@@ -1,0 +1,27 @@
+#question, #option-0, #option-1, #option-2, #option-3 {
+    text-align: center;
+    line-height: 19vh;
+    height: 20vh;
+    width: 100vw;
+    margin: 0;
+}
+
+@media all and (min-width: 50px)   { #question, #option-0, #option-1, #option-2, #option-3 { font-size:0.1em;  } }
+@media all and (min-width: 100px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:0.2em;  } }
+@media all and (min-width: 200px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:0.4em;  } }
+@media all and (min-width: 300px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:0.6em;  } }
+@media all and (min-width: 400px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:0.8em;  } }
+@media all and (min-width: 500px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:1.0em;  } }
+@media all and (min-width: 600px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:1.2em;  } }
+@media all and (min-width: 700px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:1.4em;  } }
+@media all and (min-width: 800px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:1.6em;  } }
+@media all and (min-width: 900px)  { #question, #option-0, #option-1, #option-2, #option-3 { font-size:1.8em;  } }
+@media all and (min-width: 1000px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:2.0em;  } }
+@media all and (min-width: 1100px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:2.2em;  } }
+@media all and (min-width: 1200px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:2.4em;  } }
+@media all and (min-width: 1300px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:2.6em;  } }
+@media all and (min-width: 1400px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:2.8em;  } }
+@media all and (min-width: 1500px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:3.0em;  } }
+@media all and (min-width: 1500px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:3.2em;  } }
+@media all and (min-width: 1600px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:3.4em;  } }
+@media all and (min-width: 1700px) { #question, #option-0, #option-1, #option-2, #option-3 { font-size:3.6em;  } }
